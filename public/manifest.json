@@ -1,0 +1,17 @@
+{
+    "name": "Mi Aplicación Vue PWA",
+    "short_name": "VuePWA",
+    "description": "Una aplicación increíble construida con Vue.js",
+    "icons": [
+      {
+        "src": "/icons/flork.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#41b883"
+  }
+  
